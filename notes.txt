@@ -1,0 +1,15 @@
+- Group_16, Group_17 images su malo veći (348x208) u odnosu na Group_15 (342x203) pa sam ih kropovao
+- images Group_X preimenovano sa donjom crtom
+- nema definisane font familije; izabrao sam font bez da tražim sličan
+- neki blokovi ne postoje u mobilnoj verziji, ali to je verovatno namerno izostavljeno
+- sve korišćene boje su iz dostavljene "palete", osim crvene tačke, boje fonta i svetlo sivih slova koje su pokupljene sa color pickerom
+- da bi bilo idealno responsive treba još par prelomnih tačaka
+- prelomna tačka je postavljena na 576px
+- razvijano u firefoxu
+
+Downfalls:
+Zbog pogrešno postavljenog html-a u startu, jer nisam primetio da su elementi razlicito postavljeni u mobilnom prikazu a zbog nedostatka vremena za ispravke, sledeće stavke ne ispunjavaju zadate kriterijume:
+
+- vertikalne linije u mobilnom prikazu nisu kako treba
+- ne idealno zamenje pozicije blokova u "Nullam pellentesque purus en neque"
+- raspored kockica u gornjem delu (ljubičasta i plava) nisu zamenjene pozicije
